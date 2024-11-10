@@ -1,5 +1,4 @@
 ---
-
 # Display name
 title: Zhipeng (Bill) Chen
 
@@ -51,7 +50,7 @@ education:
     summary: |
       GPA: 3.9/4.0
 
-      Courses included:
+    Courses included:
       - Big Data Analytics
       - Large-Scale Data Mining
       - Natural Language Processing
@@ -63,14 +62,14 @@ education:
     summary: |
       GPA: 3.9/4.0
 
-      Courses included:
+    Courses included:
       - Customer Analytics
       - Probabilistic Modeling and Machine Learning
       - Systems for Scalable Analytics
       - Data Management
       - Data Visualization
       - Econometrics
-      - Statistical Analysis. 
+      - Statistical Analysis 
  work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
