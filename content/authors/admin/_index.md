@@ -2,6 +2,8 @@
 # Display name
 title: Zhipeng (Bill) Chen
 
+# Name Pronounication
+
 # Full name (for SEO)
 first_name: Zhipeng
 last_name: Chen
