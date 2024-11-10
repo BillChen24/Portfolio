@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Bill, a data scientist and engineer with a passion for applying machine learning and AI to real-world challenges. My background includes a Bachelor’s degree in Data Science from UC San Diego and a Master of Engineering with a focus on Data Science and Machine Learning from UCLA. I have experience working as a research assistant at UCSD, where I developed automated tools for data collection from energy websites, and as a data scientist for an AI startup providing AI solutions to traditional industries. My interests include developing scalable AI solutions, data-driven decision making, and collaborating on innovative projects in robotics and machine learning.
